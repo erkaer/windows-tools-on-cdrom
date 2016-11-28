@@ -1,6 +1,8 @@
 Windows-Tools on CD-ROM (or USB stick)
 ======================================
 
+*This list will be updated by me*
+
 *This list has not been updated since 2007. Links may not work. Use a
 search engine of your choice.*
 
@@ -43,8 +45,8 @@ starts when you insert the CD-ROM into a running Windows system.
 Desktop Utils
 -------------
 
--   [Bosskey](http://keir.net/bosskey.html): simple virtual desktop
-    program (Robin Keir. *Freeware*)
+-   [VirtuaWin](https://sourceforge.net/projects/virtuawin/files/latest/download): virtual desktop program (Johan Piculell. *Open
+    Source*)
 -   [Count Characters](http://www.funduc.com/otsoft.htm): dump the
     contents of various combo, edit, list boxes, static, and button
     fields to the clipboard (Funduc Software. *Freeware*)
