@@ -68,11 +68,6 @@ Desktop Utils
 File Analysis
 -------------
 
--   [BinText](http://www.foundstone.com/resources/proddesc/bintext.htm):
-    small, very fast and powerful text extractor that will be of
-    particular interest to programmers (Foundstone. *Freeware*)
--   [CDMage](http://cdmage.orcon.net.nz/): performs different tasks with
-    a common CD image files on your harddrive (TWoeMS. *Freeware*)
 -   [DBF Viewer Plus](http://www.alexnolan.net/software/dbf.htm): view
     DBF database files (Alex Nolan. *Freeware*)
 -   [DefragNT](http://www.geocities.com/andreigaceff/DefragNT.html):
