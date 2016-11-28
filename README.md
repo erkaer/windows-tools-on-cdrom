@@ -54,8 +54,6 @@ Desktop Utils
     snapshot tool with jpg, png, bmp and gif support.HoverSnap can take
     snapshots of the full screen, active window or a selected area
     (Hover Inc. *Freeware*)
--   [Lens](http://users.pandora.be/liontech/Downloads.htm): magnifies
-    the selected area on your screen (Peter Stuer. *Freeware*)
 -   [Pixie](http://www.nattyware.com/pixie.html): colour picker that
     includes a mouse tracker. Run it, simply point to a colour and it
     will tell you the hex, RGB, HTML, CMYK and HSV values of that colour
