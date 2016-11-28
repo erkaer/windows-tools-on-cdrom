@@ -47,7 +47,7 @@ Desktop Utils
 
 -   [VirtuaWin](https://sourceforge.net/projects/virtuawin/files/latest/download): virtual desktop program (Johan Piculell. *Open
     Source*)
--   [Count Characters](http://www.funduc.com/otsoft.htm): dump the
+-   [Count Characters](http://www.funduc.com/countchars.htm): dump the
     contents of various combo, edit, list boxes, static, and button
     fields to the clipboard (Funduc Software. *Freeware*)
 -   [HoverSnap](http://www.hoverdesk.net/freeware.htm): free handy
