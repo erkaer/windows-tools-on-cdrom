@@ -31,17 +31,6 @@ than 100 MB of disk space.
 
 If you have any comments or suggestions write to: mail at dirk-loss de.
 
-### Optional: Use the tools together with PE Builder:
-
-If you want a really nice CD-ROM, start Bart Lagerweij's [PE
-Builder](http://www.nu2.nu/pebuilder/), tell it to include the tools
-folder on the CD-ROM (by entering the path as a 'custom directory' on
-the start screen) and create appropriate entries for the
-[Nu2menu](http://www.nu2.nu/nu2menu/) system. By using PE Builder you
-can optionally run the tools from a clean (rescue) system running
-completely from CD-ROM. And you have a nice menu that automatically
-starts when you insert the CD-ROM into a running Windows system.
-
 Desktop Utils
 -------------
 
