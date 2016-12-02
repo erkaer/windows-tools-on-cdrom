@@ -1,7 +1,7 @@
 Windows-Tools on CD-ROM (or USB stick)
 ======================================
 
-*This list will be updated by me*
+*This list will be updated by me.*
 
 *This list has not been updated since 2007. Links may not work. Use a
 search engine of your choice.*
@@ -58,7 +58,7 @@ File Analysis
 -   [DefragNT](http://www.geocities.com/andreigaceff/DefragNT.html):
     presents the user with many options for disk defragmenting (Andrei
     Gaceff. *Freeware*)
--   ![favourite](super.gif)[Dependency
+-   [Dependency
     Walker](http://www.dependencywalker.com/): scans any 32-bit or
     64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a
     hierarchical tree diagram of all dependent modules (Steve P. Miller)
@@ -110,7 +110,7 @@ File Analysis
     or folder on a given drive is displayed in a box in the main window
     whose size is a relative comparison to all the other files in your
     system (Sean Werkema. *Freeware (v1.4)*)
--   ![favourite](super.gif)[Tiny
+-   [Tiny
     Hexer](http://www.mirkes.de/de/freeware/tinyhex/smalledition.php):
     hexeditor for binary files (Markus Stephany. *Freeware*)
 -   [Virtual Floppy
@@ -126,13 +126,13 @@ File Analysis
 File Management
 ---------------
 
--   ![favourite](super.gif)[1-4a Rename](http://www.1-4a.com/): very
+-   [1-4a Rename](http://www.1-4a.com/): very
     easy to use file renamer (1-4a Software. *Freeware*)
 -   [A43](http://www.shawneelink.net/~bgmiller/): file management
     utility with lots of features (B. G. Miller. *Freeware*)
--   ![favourite](super.gif)[CD2ISO](http://www.dubaron.com/cd2iso/):
+-   [CD2ISO](http://www.dubaron.com/cd2iso/):
     extract .iso images from your cd or dvd disk (Rene. *Freeware*)
--   ![favourite](super.gif)[CdManipulator](http://www.storeroom.info/cdm/):
+-   [CdManipulator](http://www.storeroom.info/cdm/):
     read, burn, copy and master CD-ROMs (Y. Kanechika)
 -   [DelOld](http://www.savilltech.com/delold/): remove files matching a
     certain age and specification (Savilltech. *Freeware*)
@@ -175,7 +175,7 @@ File Management
     you specify (Emurasoft. *Freeware*)
 -   [Roadkil's Disk Image](http://www.roadkil.net/): copies an image of
     a disk to/from a file (Roadkil. *Freeware*)
--   ![favourite](super.gif)[Small
+-   [Small
     CD-Writer](http://www.avtlab.ru/scdwriter.htm): small cd-burning
     program with nice GUI (russian version) (AV(T) Lab. *Freeware*)
 -   [Splitter
@@ -194,10 +194,10 @@ File Management
 File Recovery
 -------------
 
--   ![favourite](super.gif)[Handy
+-   [Handy
     Recovery](http://www.handyrecovery.com/): restore files accidentally
     deleted from a hard disk or a diskette (SoftLogica. *Freeware*)
--   ![favourite](super.gif)[PC
+-   [PC
     Inspector](http://www.pcinspector.de/file_recovery/UK/welcome.htm):
     a data recovery program that supports the FAT 12/16/32 and NTFS file
     systems (Convar. *Freeware*)
@@ -235,7 +235,7 @@ File Transfer
     proxys/firewalls/routers/etc (SteelBytes. *Freeware*)
 -   [Freeway FTP](http://www.agric.za/freeway/freeway.html): both an FTP
     server as well as an FTP client (Larry Nezar. *Freeware*)
--   ![favourite](super.gif)[HFS HTTP File
+-   [HFS HTTP File
     Server](http://www.rejetto.com/sw/): HTTP server designed for file
     transfer (Rejetto. *Open Source*)
 -   [i.FTP](http://www.memecode.com/iftp.php): graphical FTP client
@@ -251,11 +251,11 @@ File Transfer
 -   [SMBDownloader](http://www.roeder.goe.net/~koepi/smbdownloader.html):
     start, stop and resume downloads from Windows shares (Dirk Knop.
     *Freeware*)
--   ![favourite](super.gif)[Synchronize It!
+-   [Synchronize It!
     V1.69](http://planetjeffrey.novawebhost.com/filemgt.html): provides
     quick comparison and synchronization of files in different folders
     or drives (Igor Green. *Freeware*)
--   ![favourite](super.gif)[TFTPD32](http://tftpd32.jounin.net/): TFTP
+-   [TFTPD32](http://tftpd32.jounin.net/): TFTP
     server and client, DHCP, SNTP and Syslog servers (Philippe Jounin.
     *Freeware*)
 -   [ThirdDir](http://rvas.webzdarma.cz/): directory synchronizer which
@@ -266,7 +266,7 @@ File Transfer
 -   [Wackget](http://millweed.com/projects/wackget/): a download manager
     for Windows. It maintains a queue of files and downloads them (using
     wget) in the order you specify (Milweed. *Open Source*)
--   ![favourite](super.gif)[WinSCP](http://winscp.sourceforge.net/):
+-   [WinSCP](http://winscp.sourceforge.net/):
     connect to a SSH server with SFTP or SCP (Martin Prykryl. *Open
     Source*)
 
@@ -317,7 +317,7 @@ Hardware Info
 -   [SIV](http://members.datafast.net.au/dft0802/downloads.htm): general
     Windows utility for dumping lots of useful Windows and hardware info
     (Ray Hinchliffe. *Freeware*)
--   ![favourite](super.gif)[SIW](http://www3.sympatico.ca/gtopala/about_siw.html):
+-   [SIW](http://www3.sympatico.ca/gtopala/about_siw.html):
     read-only / display-only system information tool that gathers
     detailed information about your system properties and settings
     (Gabriel Topala. *Freeware*)
@@ -406,10 +406,10 @@ Office Apps
 -   [firstobject XML Editor](http://www.firstobject.com/dn_editor.htm):
     small, fast and simple XML editor (First Objective Software, Inc..
     *Freeware*)
--   ![favourite](super.gif)[Foxit PDF
+-   [Foxit PDF
     Reader](http://www.foxitsoftware.com/pdf/rd_intro.php): very small
     reader for PDF documents (Foxit Software. *Freeware*)
--   ![favourite](super.gif)[Irfan View](http://www.irfanview.com/): very
+-   [Irfan View](http://www.irfanview.com/): very
     fast, small, compact and innovative graphic viewer (Irfan Skiljan.
     *Non-commercial Freeware*)
 -   [MetaPad](http://www.liquidninja.com/metapad/): small, fast text
@@ -419,7 +419,7 @@ Office Apps
 -   [Printserver](http://jansfreeware.com/jftools.htm): small HTML 3.2
     frames enabled off-line browser to print and preview html documents
     and images (Jan Verhoeven. *Freeware*)
--   ![favourite](super.gif)[TextMaker
+-   [TextMaker
     Viewer](http://www.officeviewers.com/): Open, view and print all
     common word processing formats (DOC, ODT, SXW, RTF, HTML, , ...)
     (SoftMaker. *Freeware*)
@@ -430,14 +430,14 @@ Office Apps
 Process Viewer
 --------------
 
--   ![favourite](super.gif)[CurrProcess](http://www.nirsoft.net/utils/cprocess.html):
+-   [CurrProcess](http://www.nirsoft.net/utils/cprocess.html):
     displays the list of all processes currently running on your system
     (Nir Sofer. *Non-commercial Freeware*)
 -   [OpenedFilesView](http://www.nirsoft.net/utils/opened_files_view.html):
     displays the list of all opened files on your system. Optionally,
     you can also close one or more opened files, or close the process
     that opened these files. (Nir Sofer. *Freeware*)
--   ![favourite](super.gif)[Process
+-   [Process
     Explorer](http://www.sysinternals.com/ntw2k/freeware/procexp.shtml):
     shows you information about which handles and DLLs processes have
     opened or loaded (Sysinternals. *Freeware*)
@@ -478,7 +478,7 @@ Remote Control
     networks (Gensortium Ltd. *Open Source*)
 -   [IVT](http://home.wxs.nl/~ruurdb/IVT.HTM): VT220, Telnet, SSH
     emulator (with serial console support) (Ruurd Beerstra. *Freeware*)
--   ![favourite](super.gif)[PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/):
+-   [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/):
     free implementation of Telnet and SSH (Simon Tatham. *Open Source*)
 -   [VNC Viewer](http://www.realvnc.com/): small VNC viewer (Real VNC.
     *Open Source*)
@@ -555,7 +555,7 @@ Command Line Tools
 -   [bzip2](http://sources.redhat.com/bzip2/): freely available, patent
     free (see below), high-quality data compressor (Julian Seward. *Open
     Source*)
--   ![favourite](super.gif)[cb](http://www.stonedcow.com/doe/products.php):
+-   [cb](http://www.stonedcow.com/doe/products.php):
     command-line program to send input to the clipboard. It comes most
     useful when trying to capture the output from another program.
     (Decadence of Evolution. *Freeware*)
@@ -594,7 +594,7 @@ Command Line Tools
     alternative to Device Manager. Using DevCon, you can enable,
     disable, restart, update, remove, and query individual devices or
     groups of devices. (Microsoft. *Windows Resource Kit*)
--   ![favourite](super.gif)[dig](http://pigtail.net/LRP/dig/): powerful
+-   [dig](http://pigtail.net/LRP/dig/): powerful
     tool to investigate [digging into] the DNS system (ISC / Nicholas
     Fong. *Open Source*)
 -   [diskmap](http://www.microsoft.com/windows2000/techinfo/reskit/tools/existing/diskmap-o.asp):
@@ -622,7 +622,7 @@ Command Line Tools
     wildcards (Sysinternals. *Freeware*)
 -   [ELDUMP](http://www.ibt.ku.dk/jesper/ELDump/default.htm): dump the
     contents of a NT event log as text (Jesper Lauritsen. *Freeware*)
--   ![favourite](super.gif)[Eval](http://www.cmdtools.com/): lets you
+-   [Eval](http://www.cmdtools.com/): lets you
     type in math expressions and it will display the answer. It supports
     addition, subtraction, multiplication, division, power, boolean
     logic, bit math, and works with both hex and binary numbers as well
@@ -667,7 +667,7 @@ Command Line Tools
 -   [Fport](http://www.foundstone.com/knowledge/proddesc/fport.html):
     Identify unknown open ports and their associated applications
     (Foundstone. *Freeware*)
--   ![favourite](super.gif)[fsum](http://www.slavasoft.com/fsum/): fast
+-   [fsum](http://www.slavasoft.com/fsum/): fast
     and handy Command Line utility for file integrity verification. It
     offers a choice of 11 most popular hash and checksum functions for
     file message digest and checksum calculation (SlavaSoft. *Freeware*)
@@ -764,7 +764,7 @@ Command Line Tools
     age for all accounts in the specified domain, both users and
     machines. Very useful for cleaning out old, unused accounts from the
     NT SAM database (OptimumX)
--   ![favourite](super.gif)[Netwox](http://www.laurentconstantin.com/en/netw/netwox/):
+-   [Netwox](http://www.laurentconstantin.com/en/netw/netwox/):
     toolbox of over 180 programs to find and solve network problems
     (Laurent Constantin. *Open Source*)
 -   [NirCmd](http://www.nirsoft.net/utils/nircmd.html): write and delete
@@ -826,7 +826,7 @@ Command Line Tools
     (PuTTy)](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html):
     SFTP client, i.e. general file transfer sessions much like FTP
     (Simon Tatham. *Open Source*)
--   ![favourite](super.gif)[PsTools
+-   [PsTools
     (collection)](http://www.sysinternals.com/Utilities/PsTools.html):
     command-line utilities for listing the processes running on local or
     remote computers, running processes remotely, rebooting computers,
@@ -873,7 +873,7 @@ Command Line Tools
     perform. The results are either output to the screen, or
     alternatively output into a log file that you specify (AnalogX.
     *Freeware*)
--   ![favourite](super.gif)[SrvInfo](http://www.microsoft.com/Resources/Documentation/windowsserv/2003/all/techref/en-us/srvinfo.asp):
+-   [SrvInfo](http://www.microsoft.com/Resources/Documentation/windowsserv/2003/all/techref/en-us/srvinfo.asp):
     displays information about a server or workstation, including
     available disk space, partition types, and the status of services
     (Microsoft. *Windows Resource Kit*)
@@ -902,11 +902,11 @@ Command Line Tools
 -   [tcping](http://www.elifulkerson.com/projects/tcping.php): operates
     similarly to 'ping', however it works over a tcp port (Eli
     Fulkerson. *Open Source*)
--   ![favourite](super.gif)[TestDisk](http://www.cgsecurity.org/index.html?testdisk.html):
+-   [TestDisk](http://www.cgsecurity.org/index.html?testdisk.html):
     check and undelete partitions (Christophe Grenier. *Open Source*)
 -   [unrar](http://www.rarlab.com/rar_add.htm): decompresses RAR
     archives (Eugene Roshal. *Freeware*)
--   ![favourite](super.gif)[Unxutils
+-   [Unxutils
     (collection)](http://unxutils.sourceforge.net/): collection of
     several GNU utilities (GNU / Karl M. Syring. *Open Source*)
 -   [unzip](http://www.info-zip.org/pub/infozip/UnZip.html): extraction
@@ -915,7 +915,7 @@ Command Line Tools
 -   [uptime](http://www.microsoft.com/ntserver/nts/downloads/management/uptime/default.asp):
     analyzes a single server for reliability and availability
     information. It can work locally or remotely (Microsoft)
--   ![favourite](super.gif)[upx](http://upx.sourceforge.net/): Ultimate
+-   [upx](http://upx.sourceforge.net/): Ultimate
     Packer for eXecutables (Markus F.X.J. Oberhumer, Laszlo Molnar.
     *Open Source*)
 -   [userdump](http://www.hammerofgod.com/download.htm): SID Walker that
@@ -956,8 +956,8 @@ Useful Links
 
 Mostly for USB sticks, so some of these tools may not work from CD-ROM.
 
--   ![favourite](super.gif)[TinyApps.org](http://www.tinyapps.org/)
--   ![favourite](super.gif)[The Portable Freeware
+-   [TinyApps.org](http://www.tinyapps.org/)
+-   [The Portable Freeware
     Collection](http://www.portablefreeware.com/all.php)
 -   [Wikipedia: List of portable
     applications](http://en.wikipedia.org/wiki/List_of_portable_applications)
@@ -977,13 +977,12 @@ separately.
     Exec](http://users.telenet.be/Robvdb/PortOffExec.htm)
 -   [Zepfanman.com Free Windows Software To
     Go](http://zepfanman.com/free/)
--   ![favourite](super.gif)[UBCD for Windows](http://www.ubcd4win.com/)
+-   [UBCD for Windows](http://www.ubcd4win.com/)
 -   [reatogo´s BartPE 500+](http://www.reatogo.de/)
 
 ### General Freeware sites
 
--   ![favourite](super.gif)[Pricelessware.org](http://www.pricelessware.org/)
+-   [Pricelessware.org](http://www.pricelessware.org/)
 -   [OSSwin Project](http://osswin.sourceforge.net/)
 -   [NoNags](http://www.nonags.com/)
 -   [Planet Jeffrey](http://planetjeffrey.novawebhost.com/)
-
