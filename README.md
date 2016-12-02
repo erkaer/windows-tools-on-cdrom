@@ -50,15 +50,11 @@ Desktop Utils
 -   [Count Characters](http://www.funduc.com/countchars.htm): dump the
     contents of various combo, edit, list boxes, static, and button
     fields to the clipboard (Funduc Software. *Freeware*)
--   [HoverSnap](http://www.hoverdesk.net/freeware.htm): free handy
-    snapshot tool with jpg, png, bmp and gif support.HoverSnap can take
-    snapshots of the full screen, active window or a selected area
-    (Hover Inc. *Freeware*)
 -   [Pixie](http://www.nattyware.com/pixie.html): colour picker that
     includes a mouse tracker. Run it, simply point to a colour and it
     will tell you the hex, RGB, HTML, CMYK and HSV values of that colour
     (Nattyware. *Freeware*)
--   ![favourite](super.gif)[PureText](http://stevemiller.net/puretext/):
+-   [PureText](http://stevemiller.net/puretext/):
     paste text from a web page, a word document, help , etc. as simple
     text into another application without getting all the formatting
     from the original source (Steve P. Miller. *Freeware*)
