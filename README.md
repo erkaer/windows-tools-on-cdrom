@@ -766,12 +766,6 @@ Command Line Tools
 -   [Mirror](http://home.in.tum.de/~jain/software.php): makes exact
     copies of directories (or entire directory structures) with minimal
     operations (Dominik Jain. *Freeware*)
--   [mkbt](http://www.nu2.nu/mkbt/): create any boot- floppy/image from
-    any win32 platform with any media size (Bart Lagerweij. *Freeware*)
--   [mtee](http://www.commandline.co.uk/mtee/): sends any data it
-    receives to the console and to any number of files. Useful if you
-    want to watch and record the output from a batch file or program.
-    (Ritchie Lawrence. *Freeware*)
 -   [mturoute](http://www.elifulkerson.com/projects/mturoute.php): uses
     ICMP pings of various sizes in order to determine the MTU values on
     the path between itself and the target system. It also includes a
